@@ -1,0 +1,24 @@
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\Music App.exe.config
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\Music App.exe
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\Music App.pdb
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music App.csproj.AssemblyReference.cache
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music_App.Form1.resources
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music_App.Properties.Resources.resources
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music App.csproj.GenerateResource.cache
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music App.csproj.CoreCompileInputs.cache
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music App.exe
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music App.pdb
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Interop.WMPLib.dll
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music App.csproj.ResolveComReference.cache
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\Interop.WMPLib.dll
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\EntityFramework.dll
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\System.Data.SQLite.dll
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\EntityFramework.xml
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAT\source\repos\Music App\Music App\bin\Debug\System.Data.SQLite.xml
+C:\Users\GAT\source\repos\Music App\Music App\obj\Debug\Music App.csproj.Up2Date
